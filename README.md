@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thanh</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="Vietnam Flag" width="20" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="Vietnam Flag" width="44" />
 </p>
 
 - 🌱 I’m currently learning **University of Informational Technology**
