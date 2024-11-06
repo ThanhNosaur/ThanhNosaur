@@ -4,7 +4,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="Vietnam Flag" width="44" />
 </p>
 
-- 🌱 I’m currently learning **University of Informational Technology**
+- 🌱 I’m currently learning **University of Information Technology - UIT**
 
 - 📫 How to reach me **24521617@gm.uit.edu.vn**
 
